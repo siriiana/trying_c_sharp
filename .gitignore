@@ -34,3 +34,5 @@ ipch/
 *.vssscc
 *.bak.*
 *.bak
+#Other
+.svn
